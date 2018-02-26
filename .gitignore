@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+docs/
+vibe-compat.so
+vibe-compat.dylib
+vibe-compat.dll
+vibe-compat.a
+vibe-compat.lib
+vibe-compat-test-*
+*.exe
+*.o
+*.obj
+*.lst
