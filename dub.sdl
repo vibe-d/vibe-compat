@@ -1,6 +1,6 @@
 name "vibe-compat"
 description "Legacy APIs for extended backwards compatbility"
 authors "Sönke Ludwig"
-copyright "Copyright © 2018, RejectedSoftware e.K."
+copyright "Copyright © 2018, Sönke Ludwig"
 license "MIT"
 dependency "vibe-d:core" version=">=0.7.30 <0.9.0-0"
